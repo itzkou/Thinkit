@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thinkit</string>
+    <plurals name="device_count">
+        <item quantity="one">%d Device</item>
+        <item quantity="other">%d Devices</item>
+    </plurals>
+</resources>
